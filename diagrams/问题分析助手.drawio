@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T03:16:37.473Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="iK5xd5o9nJynXxaCX7Kh" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T03:29:37.232Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="U5VtT4x9AkIsu-DL_j3P" version="21.6.8" type="github">
   <diagram name="第 1 页" id="B6P0FEtfsNViP6RiIy6Y">
     <mxGraphModel dx="3674" dy="1525" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -341,11 +341,53 @@
         <mxCell id="V8ihOvp4j4a2Wi2mCu9b-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1475" y="1582" width="385" height="693" as="geometry" />
         </mxCell>
-        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-2" value="选择文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1171.5" y="1617" width="58.5" height="24" as="geometry" />
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1469" y="1772" width="371" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1454" y="1611" width="259" height="36" as="geometry" />
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-7" value="选择文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1231" y="1839" width="58.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1464" y="1833" width="224" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-9" value="提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1167" y="1840" width="61" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-10" value="导入文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1469" y="1772" width="61" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1467" y="1948" width="371" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1462" y="2009" width="274" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-14" value="提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1165" y="2016" width="61" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-15" value="导入iwiki" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1467" y="1948" width="61" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-16" value="知识库导入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1345.5" y="1582" width="124" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1037" y="1582" width="385" height="693" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-27" value="知识库对话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-907.5" y="1582" width="124" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1023" y="1649" width="357" height="465" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-29" value="重新开始/停止对话" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-912" y="2142" width="135" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-937" y="2220.5" width="255" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="V8ihOvp4j4a2Wi2mCu9b-31" value="选择知识库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1025.5" y="2223" width="71" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
