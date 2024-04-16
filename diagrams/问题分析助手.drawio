@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T04:12:14.524Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tZ7MJ2fIr6-Z4XWvs5sy" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-16T07:45:29.607Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="AJGj-98fcyPW19pQFh2z" version="24.2.5" type="github" pages="2">
   <diagram name="第 1 页" id="B6P0FEtfsNViP6RiIy6Y">
-    <mxGraphModel dx="3242" dy="1100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3911" dy="1554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aKJapJ26wAGrZ9Wrt8bx-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1198" y="3584" width="738" height="107" as="geometry" />
+        </mxCell>
         <mxCell id="zwjgC2ObJU8k3cXchyGN-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-1285" y="1018" width="1097" height="431" as="geometry" />
         </mxCell>
@@ -1068,6 +1071,21 @@
           <mxGeometry x="-1526.5" y="3128" width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aKJapJ26wAGrZ9Wrt8bx-1" value="责任人配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-736.5" y="3606" width="99" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJapJ26wAGrZ9Wrt8bx-2" value="知识库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1147" y="3606" width="99" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJapJ26wAGrZ9Wrt8bx-4" value="问题单经验数据" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1005" y="3606" width="99" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJapJ26wAGrZ9Wrt8bx-5" value="问题单历史数据" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870.25" y="3606" width="99" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJapJ26wAGrZ9Wrt8bx-6" value="ALog场景配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-602" y="3606" width="99" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
