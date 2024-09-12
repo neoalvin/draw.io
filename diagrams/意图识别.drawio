@@ -1,9 +1,109 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="第 1 页" id="tzPIah6EiYTOVKSi0GZu">
-    <mxGraphModel>
+    <mxGraphModel dx="1080" dy="609" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PsOryHng8kbLYiMcShsi-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182" y="77" width="635" height="395" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="162" width="134" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-3" value="QQ机器人消息接收" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41" y="160" width="129" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.136;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PsOryHng8kbLYiMcShsi-3" target="PsOryHng8kbLYiMcShsi-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="247" y="188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsOryHng8kbLYiMcShsi-7" target="PsOryHng8kbLYiMcShsi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-7" value="清理帖子" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="268" y="187" width="97" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-8" value="&lt;b&gt;主意图识别&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="278" y="121" width="70" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PsOryHng8kbLYiMcShsi-9" target="PsOryHng8kbLYiMcShsi-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-9" value="查询帖子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="235" width="97" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-10" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="286" width="97" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462" y="161" width="151" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-12" value="&lt;b&gt;子意图识别&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="122" width="70" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-13" value="清理广告帖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="488" y="176" width="97" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-14" value="清理低质贴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="221" width="97" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-18" value="默认" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="488" y="267" width="97" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-19" value="识别不出来是具体哪一个子意图时，可以通过返回提示，让用户进行信息补充" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="652" y="221" width="147" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PsOryHng8kbLYiMcShsi-18" target="PsOryHng8kbLYiMcShsi-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-23" value="支持多意图识别，并提取对应意图信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="254" y="371" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462" y="328" width="155" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-25" value="查询低质帖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="97" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-26" value="查询优质帖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="491" y="378" width="97" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-27" value="默认" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="491" y="417" width="97" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PsOryHng8kbLYiMcShsi-27" target="PsOryHng8kbLYiMcShsi-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="632" y="433" />
+              <mxPoint x="632" y="283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-30" value="&lt;b&gt;意图识别&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="188" y="76" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182" y="528" width="286" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-32" value="&lt;b&gt;会话管理&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="177" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-33" value="多轮会话管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="564" width="87" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-34" value="上下文相关性判别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="203" y="615" width="102" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.556;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PsOryHng8kbLYiMcShsi-22" target="PsOryHng8kbLYiMcShsi-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-38" value="会话销毁策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="565" width="87" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PsOryHng8kbLYiMcShsi-39" value="多模态处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="615" width="87" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
