@@ -11,7 +11,7 @@
           <mxGeometry x="250" y="162" width="134" height="188" as="geometry" />
         </mxCell>
         <mxCell id="PsOryHng8kbLYiMcShsi-3" value="QQ机器人消息接收" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="41" y="160" width="129" height="57" as="geometry" />
+          <mxGeometry x="15" y="159" width="129" height="57" as="geometry" />
         </mxCell>
         <mxCell id="PsOryHng8kbLYiMcShsi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.136;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PsOryHng8kbLYiMcShsi-3" target="PsOryHng8kbLYiMcShsi-2">
           <mxGeometry relative="1" as="geometry">
