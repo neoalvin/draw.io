@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.9" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="2">
   <diagram name="第 1 页" id="B6P0FEtfsNViP6RiIy6Y">
-    <mxGraphModel dx="4760" dy="2031" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3242" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1112,6 +1112,37 @@
         </mxCell>
         <mxCell id="RoT-4oWHaoAFCQzdps4v-11" value="清洗后的数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-856" y="3844" width="107" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dhnXXz65WeMd7tCOtaAr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dhnXXz65WeMd7tCOtaAr-1" target="dhnXXz65WeMd7tCOtaAr-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1380" y="4619" />
+              <mxPoint x="-1380" y="4563" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dhnXXz65WeMd7tCOtaAr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dhnXXz65WeMd7tCOtaAr-1" target="dhnXXz65WeMd7tCOtaAr-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1380" y="4619" />
+              <mxPoint x="-1380" y="4662" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dhnXXz65WeMd7tCOtaAr-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;shape=mxgraph.alibaba_cloud.clb_classic_load_balancer_02;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-1504" y="4590" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhnXXz65WeMd7tCOtaAr-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1330.94" y="4535" width="56" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="dhnXXz65WeMd7tCOtaAr-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1328.5" y="4634" width="56" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="dhnXXz65WeMd7tCOtaAr-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_nat_gateway;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1666" y="4584" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="dhnXXz65WeMd7tCOtaAr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dhnXXz65WeMd7tCOtaAr-7" target="dhnXXz65WeMd7tCOtaAr-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
