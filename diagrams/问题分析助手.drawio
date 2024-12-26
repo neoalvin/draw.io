@@ -2066,7 +2066,7 @@
           <mxGeometry x="68" y="79" width="10" height="53" as="geometry" />
         </mxCell>
         <mxCell id="UGejJlB4FFsEqTZa5kBi-4" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-277" y="1691" width="30" height="60" as="geometry" />
+          <mxGeometry x="-254" y="1691" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UGejJlB4FFsEqTZa5kBi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="UGejJlB4FFsEqTZa5kBi-4" target="UGejJlB4FFsEqTZa5kBi-6">
           <mxGeometry relative="1" as="geometry" />
@@ -2079,8 +2079,8 @@
         <mxCell id="UGejJlB4FFsEqTZa5kBi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="UGejJlB4FFsEqTZa5kBi-4" target="UGejJlB4FFsEqTZa5kBi-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-213" y="1711" />
-              <mxPoint x="-213" y="1781" />
+              <mxPoint x="-177" y="1711" />
+              <mxPoint x="-177" y="1781" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2122,7 +2122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UGejJlB4FFsEqTZa5kBi-32" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-284" y="2030" width="30" height="60" as="geometry" />
+          <mxGeometry x="-261" y="2030" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UGejJlB4FFsEqTZa5kBi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="UGejJlB4FFsEqTZa5kBi-32" target="UGejJlB4FFsEqTZa5kBi-33">
           <mxGeometry relative="1" as="geometry" />
