@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-53" y="-13" width="927" height="124" as="geometry" />
         </mxCell>
         <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-5" value="Frontend" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-9" value="工作流调试运行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="127" y="32" width="105" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-55" y="160" width="931" height="124" as="geometry" />
         </mxCell>
         <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-11" value="Backend" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -64,7 +64,7 @@
         <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-29" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;权限控制&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="734" y="203" width="105" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-57" y="338" width="412" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-31" value="External" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -79,7 +79,7 @@
         <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-34" value="三方API" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="222" y="370" width="85" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="336" width="462" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Dgj5KqBly-6NJ3_eVQQ6-36" value="Model" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
